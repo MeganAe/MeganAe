@@ -1,5 +1,4 @@
-<h1 align="center">Hi , I'M 𝗠𝗲𝘁𝗼𝘂𝘀𝗵𝗲𝗹𝗮!<br> <h3 align="center">Web designer</h3> <img src="1.jpg" width="30"></h1>
-
+<h1 align="center">Hi , I'M 𝗠𝗲𝘁𝗼𝘂𝘀𝗵𝗲𝗹𝗮!<br></h1> <h3 align="center">Web designer</h3> 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](icon.jpg)
 
 <p align="center">
