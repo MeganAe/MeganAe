@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'M 𝗠𝗲𝘁𝗼𝘂𝘀𝗵𝗲𝗹𝗮! <img src="icon.jpg" width="30"></h1>
+<h1 align="center">Hi , I'M 𝗠𝗲𝘁𝗼𝘂𝘀𝗵𝗲𝗹𝗮!<br> <h3 align="center">Web designer</h3> <img src="1.jpg" width="30"></h1>
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](1.jpg)
+![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](icon.jpg)
 
 <p align="center">
   <a href="https://github.com/khrlmstfa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+just+noob;but+I+will+keep+learning;Lets+study+together+(⁠ ⁠˘⁠ ⁠³⁠˘⁠)&center=true&width=500&height=50"></a>
@@ -8,7 +8,7 @@
 <hr/>
 <h4 align="center">const noob = required('me');</h4>
 <br>
-<p align="center"> <img src="icon.jpg" alt="khrlmstfa" /> </p>
+<p align="center"> </p>
 
 
 ------
