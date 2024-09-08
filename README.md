@@ -30,7 +30,7 @@ Here are a few projects I'm proud of:
 - **[Space Game](https://github.com/MeganAe/SPACE-GAME.git)**: A weather application using the OpenWeatherMap API.
 - **[E-Commerce Platform](https://github.com/MeganAe/ecommerce-crystalize-remix.git)**: A full-featured e-commerce platform built with React and Node.js.
 
-> ✨ *You can find more projects on my [portfolio](https://metoushela-porfolio.vercel.app)*.
+> ✨ *You can find more projects on my [portfolio](https://metoushela-portfolio.vercel.app/)*.
 
 ---
 
