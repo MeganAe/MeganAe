@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Metoushela Walker 👋</h1>
 
 <p align="center">
-  <img src="metou.jpeg" alt="Metoushela Walker" style="border-radius: 50%; width: 200px;">
+  <img src="metou.jpeg" alt="Metoushela Walker" style="border-radius: 50%; width: 400px;">
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@ I am **Metoushela Walker**, a developer passionate about modern technologies and
 
 Here are a few projects I'm proud of:
 
-- **[Dalle Ai Image Generator](https://github.com/MeganAe/josh-bot-ai)**: An intelligent chatbot with GPT-4 and Google Bard API integration.
-- **[Portfolio](https://github.com/MeganAe/weather-app)**: A weather application using the OpenWeatherMap API.
-- **[E-Commerce Platform](https://github.com/MeganAe/ecommerce-platform)**: A full-featured e-commerce platform built with React and Node.js.
+- **[Dalle Ai Image Generator](https://github.com/MeganAe/dall-e.git)**: An intelligent chatbot with GPT-4 and Google Bard API integration.
+- **[Space Game](https://github.com/MeganAe/SPACE-GAME.git)**: A weather application using the OpenWeatherMap API.
+- **[E-Commerce Platform](https://github.com/MeganAe/ecommerce-crystalize-remix.git)**: A full-featured e-commerce platform built with React and Node.js.
 
-> ✨ *You can find more projects on my [portfolio](https://monportfolio.com)*.
+> ✨ *You can find more projects on my [portfolio](https://metoushela-porfolio.vercel.app)*.
 
 ---
 
