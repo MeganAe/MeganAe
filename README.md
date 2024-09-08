@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Metoushela Walker 👋</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/jKsq7EJ.jpg" alt="Metoushela Walker" style="border-radius: 50%; width: 200px;">
+  <img src="metou.jpeg" alt="Metoushela Walker" style="border-radius: 50%; width: 200px;">
 </p>
 
 <p align="center">
