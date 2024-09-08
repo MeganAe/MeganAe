@@ -94,5 +94,5 @@ Thank you for visiting my profile! Feel free to contact me if you’d like to co
 ---
 
 <p align="center">
-  <em>“Simplicity is the ultimate sophistication”</em> – <strong>Leonardo da Vinci</strong>
+  <em>“Simplicity is the ultimate sophistication”</em> – <strong>Metoushela</strong>
 </p>
