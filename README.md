@@ -26,9 +26,9 @@ I am **Metoushela Walker**, a developer passionate about modern technologies and
 
 Here are a few projects I'm proud of:
 
-- **[JOSH BOT AI](https://github.com/mon-projet/josh-bot-ai)**: An intelligent chatbot with GPT-4 and Google Bard API integration.
-- **[Weather App](https://github.com/mon-projet/weather-app)**: A weather application using the OpenWeatherMap API.
-- **[E-Commerce Platform](https://github.com/mon-projet/ecommerce-platform)**: A full-featured e-commerce platform built with React and Node.js.
+- **[Dalle Ai Image Generator](https://github.com/MeganAe/josh-bot-ai)**: An intelligent chatbot with GPT-4 and Google Bard API integration.
+- **[Portfolio](https://github.com/MeganAe/weather-app)**: A weather application using the OpenWeatherMap API.
+- **[E-Commerce Platform](https://github.com/MeganAe/ecommerce-platform)**: A full-featured e-commerce platform built with React and Node.js.
 
 > ✨ *You can find more projects on my [portfolio](https://monportfolio.com)*.
 
@@ -43,7 +43,7 @@ Here are a few projects I'm proud of:
   <a href="https://twitter.com/metoushela" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://github.com/metoushela" target="_blank">
+  <a href="https://github.com/MeganAe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
