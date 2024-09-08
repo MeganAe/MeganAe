@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'M 𝗠𝗲𝘁𝗼𝘂𝘀𝗵𝗲𝗹𝗮! <img src="icon.jpg" width="30"></h1>
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://i.postimg.cc/0ytKsNMc/88597093f89deef3fd56331f906bafa5.jpg)
+![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](1.jpg)
 
 <p align="center">
   <a href="https://github.com/khrlmstfa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+just+noob;but+I+will+keep+learning;Lets+study+together+(⁠ ⁠˘⁠ ⁠³⁠˘⁠)&center=true&width=500&height=50"></a>
@@ -44,6 +44,3 @@
 </p>
 
 
-
-* Credit: 𝙰𝚗𝚓𝚊/𝙰𝙴𝚂𝚃𝙷𝙴𝚁
-* Last Edited on: 05/26/2024
