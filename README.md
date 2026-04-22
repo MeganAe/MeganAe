@@ -1,98 +1,181 @@
-<h1 align="center">Hi, I'm Metoushela Walker 👋</h1>
-
-<p align="center">
-  <img src="metou.jpeg" alt="Metoushela Walker" style="border-radius: 50%; width: 400px;">
-</p>
-
-<p align="center">
-  <em>Full Stack Developer | Passionate about Artificial Intelligence and UX/UI Design</em>
-</p>
-
----
-
-## 🌟 About Me
-
-I am **Metoushela Walker**, a developer passionate about modern technologies and user experience. With several years of experience in **web development** and **artificial intelligence**, I focus on building robust, high-performing, and user-friendly applications.
-
-### My Skills Include:
-- **Languages**: JavaScript, Python, Node.js
-- **Frameworks**: React, Express.js, Tailwind CSS
-- **AI**: GPT, Bard API, OpenAI, and more
-- **Tools**: Git, Docker, Jenkins, Figma
-
----
-
-## 🚀 Projects
-
-Here are a few projects I'm proud of:
-
-- **[Dalle Ai Image Generator](https://github.com/MeganAe/dall-e.git)**: An intelligent chatbot with GPT-4 and Google Bard API integration.
-- **[Space Game](https://github.com/MeganAe/SPACE-GAME.git)**: A weather application using the OpenWeatherMap API.
-- **[E-Commerce Platform](https://github.com/MeganAe/ecommerce-crystalize-remix.git)**: A full-featured e-commerce platform built with React and Node.js.
-
-> ✨ *You can find more projects on my [portfolio](https://metoushela-portfolio.vercel.app/)*.
-
----
-
-## 📲 Follow Me on Social Media
+<!-- ═══════════════════════════════════════════════════
+     0x[UNKNOWN] — GitHub Profile README
+     Style : Hacker × Comic Book × Anonymous
+     ═══════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://linkedin.com/in/metoushela" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/metoushela" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MeganAe" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<!-- ░░ HEADER ANIMÉ - TYPING EFFECT ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+SYSTEM+BREACH...;%3E+IDENTITY%3A+%5BREDACTED%5D;%3E+STATUS%3A+ONLINE;%3E+INITIALIZING+PROFILE...;%3E+ACCESS+GRANTED+%E2%9C%93" alt="Typing SVG" />
+
+---
+
+<!-- ░░ IMAGE BD — GIF HACKER COMIC ░░ -->
+<img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="300" alt="hacker comic gif"/>
+
+```
+ ╔══════════════════════════════════════════════════╗
+ ║  "They said I couldn't hack the matrix.         ║
+ ║   I said hold my root access."  — 0x[UNKNOWN]  ║
+ ╚══════════════════════════════════════════════════╝
+                              ▲
+                              █
+```
+
+![](https://img.shields.io/badge/WHO_AM_I-%5BREDACTED%5D-00FF41?style=for-the-badge&logo=tor-project&logoColor=white&labelColor=0d0d0d)
+![](https://img.shields.io/badge/LOCATION-CLASSIFIED-FF0000?style=for-the-badge&logo=protonvpn&logoColor=white&labelColor=0d0d0d)
+![](https://img.shields.io/badge/STATUS-GHOST_MODE-00BFFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d0d0d)
+
 </div>
 
 ---
 
-## ✨ Animations & Interactions
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metoushela&show_icons=true&theme=radical" alt="My GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metoushela&theme=radical" alt="GitHub Streak Stats"/>
+
+## ▓▓▓ COMIC PANEL 01 — WHO IS 0x\[UNKNOWN\] ? ▓▓▓
+
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="250" alt="comic superhero hacker"/>
+
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-</p>
+```bash
+$ whoami
+> [CLASSIFIED]
+
+$ cat /etc/identity
+> Full Stack Developer  ░░░░░░░░░░░░░░░  [CONFIRMED]
+> AI Engineer           ░░░░░░░░░░░░░░░  [CONFIRMED]
+> Android Developer     ░░░░░░░░░░░░░░░  [CONFIRMED]
+> UX/UI Architect       ░░░░░░░░░░░░░░░  [CONFIRMED]
+> Creative Coder        ░░░░░░░░░░░░░░░  [CONFIRMED]
+
+$ cat /etc/origin
+> SIGNAL  : ENCRYPTED
+> NODE    : UNKNOWN
+> IP      : [MASKED VPN]
+```
 
 ---
 
-## 🎨 Visual Effects & Design
+## ▓▓▓ COMIC PANEL 02 — SKILL TREE ▓▓▓
 
-<style>
-  img {
-    transition: transform 0.3s ease-in-out;
-  }
-  img:hover {
-    transform: scale(1.2);
-  }
-</style>
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif comic style"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=22&center=true&lines=Welcome+to+My+GitHub+Profile;Full+Stack+Developer;Passionate+about+AI+and+UX/UI+Design" alt="Typing SVG">
-</p>
-
----
-
-## 🎨 Design & UI/UX
-
-This profile design follows a **minimalistic** and **professional** approach, focusing on simplicity and visual clarity.
-
-- **Color Palette**: Neutral and professional tones for visual clarity.
-- **Typography**: Modern, readable fonts.
-- **Animations**: Subtle animations to highlight key information.
-
-Thank you for visiting my profile! Feel free to contact me if you’d like to collaborate.
+```
+╔════════════════════════════════════════════════════════╗
+║           [ POWER LEVELS — CLASSIFIED ]               ║
+╠════════════════════════════════════════════════════════╣
+║  FRONTEND     ████████████████████████████  95/100    ║
+║  BACKEND      █████████████████████████     82/100    ║
+║  MOBILE       ██████████████████████████    88/100    ║
+║  AI & ML      ████████████████████████████  99/100    ║
+║  DESIGN       █████████████████████████     85/100    ║
+║  SECURITY     ████████████████░░░░░░░░░░    63/100    ║
+╚════════════════════════════════════════════════════════╝
+```
 
 ---
 
-<p align="center">
-  <em>“Simplicity is the ultimate sophistication”</em> – <strong>Metoushela</strong>
-</p>
+## ▓▓▓ COMIC PANEL 03 — ARSENAL ▓▓▓
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="tech tools"/>
+
+### ⚡ Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### 🛡️ Frameworks & Tools
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 🧠 AI Upgrades
+
+![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+## ▓▓▓ COMIC PANEL 04 — ACTIVE OPERATIONS ▓▓▓
+
+<div align="center">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260" alt="hacker operation"/>
+</div>
+
+```
+╔════════════════════════════════════════════════════════╗
+║          [ ACTIVE MISSIONS — EYES ONLY ]              ║
+╠════════════════════════════════════════════════════════╣
+║  OP_CODENAME        PROGRESS        CLEARANCE         ║
+║  ─────────────────────────────────────────────────    ║
+║  [COMM_AGENCY]      ▓▓▓▓▓▓▓▓▓░  90%   CLASSIFIED     ║
+║  [AI_PLATFORM]      ▓▓▓▓▓░░░░░  50%   RESTRICTED     ║
+║  [MUSIC_PROJECT]    ▓▓▓▓▓▓▓▓░░  80%   TOP SECRET     ║
+║  [ANDROID_APP_X]    ▓▓▓▓▓▓▓░░░  70%   CLASSIFIED     ║
+╚════════════════════════════════════════════════════════╝
+```
+
+---
+
+## ▓▓▓ COMIC PANEL 05 — FIELD REPORT ▓▓▓
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="stats coding"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeganAe&show_icons=true&theme=matrix&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0d0d0d&border_color=00FF41&border_radius=6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeganAe&layout=compact&theme=matrix&title_color=00FF41&text_color=00FF41&bg_color=0d0d0d&border_color=00FF41&border_radius=6)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeganAe&theme=matrix&background=0d0d0d&border=00FF41&stroke=00FF41&ring=FF0000&fire=FF0000&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41)
+
+</div>
+
+---
+
+## ▓▓▓ COMIC PANEL 06 — FINAL FRAME ▓▓▓
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="280" alt="final comic panel"/>
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   "In a world full of users... be the dev."        │
+│                                                     │
+│             — 0x[UNKNOWN] / MeganAe                │
+│                                                     │
+│        [ END OF FILE — TRACE ERASED ]              │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MeganAe.MeganAe&color=00FF41)
+![](https://img.shields.io/badge/SIGNAL-ENCRYPTED-00FF41?style=flat-square&logo=signal&logoColor=white)
+![](https://img.shields.io/badge/TRACES-ERASED-FF0000?style=flat-square&logo=protonvpn&logoColor=white)
+
+*`> Connection terminated. Identity: [REDACTED]. Have a nice day, citizen.`*
+
+</div>
